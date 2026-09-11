@@ -1,0 +1,20 @@
+// Write the helloFunction below to print "Hello"
+
+
+
+class Solution {
+    // code here
+    
+        public static void helloFunction()
+{
+    System.out.println("Hello");
+}
+
+    public static void main(String[] args)
+    {
+        Solution obj = new Solution();
+        obj.helloFunction();
+    }
+
+    
+}
